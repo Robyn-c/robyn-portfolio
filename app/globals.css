@@ -22,6 +22,9 @@
 body {
   color: #ededed;
   background-color: var(--primary);
+  max-width: 1480px;
+  overflow-x: hidden;
+  margin: 0 auto;
 }
 
 * {
@@ -30,8 +33,7 @@ body {
   margin: 0;
 }
 
-html,
-body {
+html {
   max-width: 100vw;
   overflow-x: hidden;
 }

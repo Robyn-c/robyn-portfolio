@@ -5,18 +5,18 @@ import { ChakraProvider } from '@chakra-ui/react'
 import { extendTheme } from "@chakra-ui/react"
 
 const theme = extendTheme({
-  "colors": {
-    "yellow": {
-      "50": "#FFF2E5",
-      "100": "#FFDAB8",
-      "200": "#FFC28A",
-      "300": "#FFAA5C",
-      "400": "#FF922E",
-      "500": "#FF7A00",
-      "600": "#CC6200",
-      "700": "#994900",
-      "800": "#663100",
-      "900": "#331800"
+  colors: {
+    yellow: {
+      50: "#FFF2E5",
+      100: "#FFDAB8",
+      200: "#FFC28A",
+      300: "#FFAA5C",
+      400: "#FF922E",
+      500: "#FF7A00",
+      600: "#CC6200",
+      700: "#994900",
+      800: "#663100",
+      900: "#331800"
     },
     "purple": {
       "50": "#F1EFF6",
